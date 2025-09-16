@@ -27,7 +27,6 @@ install.packages(c(
   "car"         # variance tests (e.g., Levene’s test)
 ))
 ```
-
 ---
 
 ## 🤝 Acknowledgment
@@ -41,6 +40,9 @@ We gratefully acknowledge the contributions of the coordinators, lecturers, and 
 This repository is released under the **MIT License**.  
 You are free to use, modify, and distribute this code for academic and research purposes, provided that proper credit is given to the author.  
 
-For details, see the full license text in the [`LICENSE`](LICENSE) file.  
+---
+## 🎥 Presentation
+The interactive project presentation is available on **ArcGIS StoryMap**:  
+🔗 [View Presentation](https://arcg.is/1ODn1i0)  
 
 ---
