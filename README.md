@@ -15,8 +15,18 @@ The project focuses on **Fogo Island (Cabo Verde)** and investigates the relatio
 ---
 
 ## 🔧 Requirements
-The scripts were written in **R (≥ 4.0)** and require the following packages:
+The scripts were written in **R (≥ 4.0)** and require the following packages:  
 
+```R
+install.packages(c(
+  "terra",      # spatial raster data processing
+  "sf",         # vector data and coordinate systems
+  "dplyr",      # data manipulation
+  "ggplot2",    # visualization
+  "agricolae",  # statistical tests (ANOVA, Kruskal-Wallis, etc.)
+  "car"         # variance tests (e.g., Levene’s test)
+))
+```
 
 ---
 
