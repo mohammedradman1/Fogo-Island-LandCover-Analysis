@@ -2,6 +2,7 @@
 
 This repository contains the **R scripts and analysis workflow** developed during the **GeoTraining Summer School** (Osnabrück University, funded by DAAD & BMZ).  
 The project focuses on **Fogo Island (Cabo Verde)** and investigates the relationship between **land cover types** and the **distribution of introduced species** using remote sensing and statistical methods. 
+
 [🌍 View my StoryMap](https://storymaps.arcgis.com/stories/6802dbad71d34dee9564f5b908e27528)
 
 ---
